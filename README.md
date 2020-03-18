@@ -9,8 +9,7 @@ Since it is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/b
 
 ### CONTACT
 
-If any desire to contact me arise, you can do so under kasai.kemono@gmail.com and I'll reply as soon as possible
-
+If any desire to contact me arise, you can do so under kasai.kemono@gmail.com, or on github.com/KasaiKemono and I'll reply as soon as possible
 ## LICENSE
 
 Attribution-ShareAlike 4.0 International
