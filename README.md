@@ -16,6 +16,7 @@ Zeiterfassung (c) by Kasai Kemono
 
 Zeiterfassung is licensed under a
 Creative Commons Attribution-ShareAlike 4.0 International License.
+
 ![Image](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
 
 You should have received a copy of the license along with this
